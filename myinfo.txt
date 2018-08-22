@@ -1,1 +1,2 @@
- "Full name: Sarah Cheung" 
+Full name: Sarah Cheung
+Department: Computer Science
